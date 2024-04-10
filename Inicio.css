@@ -1,0 +1,12 @@
+body{
+    background-image: url("../MULTIMEDIA/Imagenes/BCFI1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    text-transform: uppercase;}
+h1{color: blue;}
+.uno{color: gold;}
+.dos{color: gold;}
+.tres{color: yellow;}
+a{color:black;}

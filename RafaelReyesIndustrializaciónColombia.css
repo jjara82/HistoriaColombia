@@ -1,0 +1,67 @@
+body{
+    background-color: blue;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;}
+.h4{text-align: justify;}
+.imagen-1{
+    width: 400px;
+    height: 300px;
+    margin-right: 10px;}
+.imagen-2{
+    width: 400px;
+    height: 300px;
+    margin-left: 10px;}
+.imagen-3{
+    width: 400px;
+    height: 300px;
+    margin-right: 10px;}
+.imagen-4{
+    width: 400px;
+    height: 300px;
+    margin-left: 10px;}
+.imagen-5{
+    width: 400px;
+    height: 300px;
+    margin-left: 10px;}
+.video{
+    width: 400px;
+    height: 300px;
+    margin-left: 45px;}
+.uno{background-size: 30px;
+    text-align:center;
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;}
+.dos{background-size: 30px;
+    text-align:center;
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;}
+.tres{text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;}
+.cuatro{text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;}
+.cinco{text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;}
+.inicio{color: black;
+    justify-content: center;}
+.contenedor-1{
+    display: flex;
+    justify-content: center;}
+.contenedor-2{
+    display: flex;
+    justify-content: center;}
+.contenedor-3{
+    display: flex;
+    justify-content: center;}

@@ -1,0 +1,50 @@
+body{
+    background-image: url("../MULTIMEDIA/Imagenes/GMDF2.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;}
+.h4{text-align: justify;}
+.imagen-1{
+    width: 400px;
+    height: 300px;
+    margin-right: 10px;}
+.imagen-2{
+    width: 400px;
+    height: 300px;
+    margin-left: 10px;}
+.imagen-3{
+    width: 400px;
+    height: 300px;
+    margin-right: 20px;}
+.video{
+    width: 400px;
+    height: 300px;
+    margin-left: 45px;}
+.uno{background-color:violet;
+    background-size: 30px;
+    text-align:center;
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;}
+.dos{background-color:brown;
+    background-size: 30px;
+    text-align:center;
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;}
+.tres{text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;}
+.inicio{color: black;
+    justify-content: center;}
+.contenedor-1{
+    display: flex;
+    justify-content: center;}
+.contenedor-2{
+    display: flex;
+    justify-content: center;}
